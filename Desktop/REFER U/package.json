@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "1.6.0",
+  "dependencies": {
+    "global": "^4.3.2",
+    "yarn": "^1.6.0"
+  }
+}
